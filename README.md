@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sifundo Ginindza 
 - 👀 I’m interested in industrial automation, encompassing IoT implementation and artificial intelligence integration
-- 🌱 I’m an expert in embedded programming (C, C++, Arduino)
+- 🌱 I’m an expert in embedded programming (C, C++, Arduino) and have been introduced to PLC programming.
 - 💞️ I’m looking to collaborate on industry projects.
 - 📫 How to reach me sfundoginindza@gmail.com
 
